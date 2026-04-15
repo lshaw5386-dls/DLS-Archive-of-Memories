@@ -16,5 +16,4 @@ credits: true
 
 This collection contains 10 photos from 1999 - 2003 documenting the early life of DeMarious Lauren Shaw. These photos document major family events and holidays taken by DeMarious Tuttle Shaw. All of these photos were taken in Rockingham County. For more detailed information on this collection and permissions of use contact Special Collections at UNCW. 
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+
